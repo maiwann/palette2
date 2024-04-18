@@ -1,6 +1,6 @@
 ---
 title: "Le festival"
-order: 4
+order: 1
 in_menu: true
 ---
 # _Des Palettes Plein Les Yeux_ 

@@ -1,6 +1,6 @@
 ---
 title: "La micro-brasserie"
-order: 1
+order: 4
 in_menu: true
 ---
 ![photo bière](images/Diapositive1.jpeg)
